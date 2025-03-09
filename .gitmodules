@@ -1,0 +1,3 @@
+[submodule "cvw"]
+	path = cvw
+	url = git@github.com:openhwgroup/cvw.git
